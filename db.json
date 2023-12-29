@@ -8,7 +8,12 @@
             "descripcion": "",
             "dirreccion": "",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604538/Adopcion/perros/Card_nim8c0.png"
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604538/Adopcion/perros/Card_nim8c0.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
         },
 
         {
@@ -19,7 +24,12 @@
             "descripcion": "",
             "dirreccion": "",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604534/Adopcion/perros/Card_1_p6kh4f.png"
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604534/Adopcion/perros/Card_1_p6kh4f.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
             
             
         },
@@ -32,7 +42,12 @@
             "descripcion": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
             "dirreccion": "4140 Parker Rd. Allentown, New Mexico 31134",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/mibzgeidixyia7wuz4xa.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/mibzgeidixyia7wuz4xa.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
         }, 
 
         {
@@ -43,7 +58,12 @@
             "descripcion": "",
             "dirreccion": "",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604537/Adopcion/perros/Card_3_o3rwzg.png"
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604537/Adopcion/perros/Card_3_o3rwzg.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
         } 
 
     ] ,
@@ -57,7 +77,12 @@
             "descripcion": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
             "dirreccion": "4140 Parker Rd. Allentown, New Mexico 31134",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604449/Adopcion/gatos/Card_tdvgcy.png"
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604449/Adopcion/gatos/Card_tdvgcy.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
         },
 
         {
@@ -68,7 +93,12 @@
             "descripcion": "",
             "dirreccion": "",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
         }, 
         {
             "id": 3,
@@ -78,7 +108,12 @@
             "descripcion": "",
             "dirreccion": "",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604448/Adopcion/gatos/Card_3_l49ixu.png"
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604448/Adopcion/gatos/Card_3_l49ixu.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
         }, 
         {
             "id": 4,
@@ -88,7 +123,12 @@
             "descripcion": "",
             "dirreccion": "",
             "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604447/Adopcion/gatos/Card_2_tspyol.png"
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604447/Adopcion/gatos/Card_2_tspyol.png",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            }
         }
     ],
 
@@ -112,5 +152,7 @@
 
 }
 
+
+  
 
   
