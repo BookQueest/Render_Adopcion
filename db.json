@@ -1,137 +1,152 @@
 {
-    "perros" : [
+    "perros": [
         {
             "id": 1,
             "nombre": "Chester",
-            "edad": "",
+            "edad": "2 años",
             "raza": "Golden retriever",
-            "descripcion": "",
-            "dirreccion": "",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604538/Adopcion/perros/Card_nim8c0.png",
+            "descripcion": "Chester es un perro amigable y enérgico. Le encanta jugar y recibir caricias. Está buscando un hogar lleno de amor y actividades divertidas.",
+            "dirreccion": "123 Calle Perro, Ciudad Canina",
+            "personalidad": "Alegre y juguetón",
+            "url": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604538/Adopcion/perros/Card_nim8c0.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "Champ de Mars, 5 Avenue Anatole France, 75007 París, Francia."
             }
         },
-
         {
             "id": 2,
             "nombre": "Papi",
-            "edad": "",
+            "edad": "1 año",
             "raza": "Chihuahua",
-            "descripcion": "",
-            "dirreccion": "",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604534/Adopcion/perros/Card_1_p6kh4f.png",
+            "descripcion": "Papi es un chihuahua adorable y compacto. A pesar de su tamaño, tiene mucha energía y le encanta jugar. Ideal para un hogar acogedor.",
+            "dirreccion": "456 Calle Chihuahua, Ciudad Perrita",
+            "personalidad": "Pequeño y valiente",
+            "url": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604534/Adopcion/perros/Card_1_p6kh4f.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "Piazza del Colosseo, 1, 00184 Roma, Italia."
             }
-            
-            
         },
-
         {
             "id": 3,
             "nombre": "Rocky",
-            "edad": "3 Meses",
+            "edad": "3 meses",
             "raza": "Rottweiler",
-            "descripcion": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+            "descripcion": "Rocky es un cachorro rottweiler lleno de energía y amor. Busca un hogar cálido y activo donde pueda crecer y jugar feliz.",
             "dirreccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/mibzgeidixyia7wuz4xa.png",
+            "personalidad": "Joven y juguetón",
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/mibzgeidixyia7wuz4xa.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "Carrer de Mallorca, 401, 08013 Barcelona, España"
             }
-        }, 
-
+        },
         {
-            "id" : 4,
+            "id": 4,
             "nombre": "Pelusa",
-            "edad": "",
+            "edad": "1.5 años",
             "raza": "Bichón frisé",
-            "descripcion": "",
-            "dirreccion": "",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604537/Adopcion/perros/Card_3_o3rwzg.png",
+            "descripcion": "Pelusa es un bichón frisé encantador y cariñoso. Le encanta ser mimado y está buscando un hogar donde pueda recibir mucho amor y atención.",
+            "dirreccion": "789 Calle Bichón, Ciudad Perruna",
+            "personalidad": "Adorable y afectuoso",
+            "url": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604537/Adopcion/perros/Card_3_o3rwzg.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "4 Jingshan Front St, Dongcheng Qu, Beijing Shi, China."
             }
-        } 
-
-    ] ,
-
-    "gatos" : [
+        }
+    ],
+    "gatos": [
         {
             "id": 1,
             "nombre": "Matilde",
             "edad": "6 meses",
             "raza": "British Shorthair",
-            "descripcion": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+            "descripcion": "Matilde es una gata British Shorthair elegante y cariñosa. Fue rescatada y ahora busca un hogar amoroso donde pueda recibir todo el afecto que se merece.",
             "dirreccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604449/Adopcion/gatos/Card_tdvgcy.png",
+            "personalidad": "Elegante y cariñosa",
+            "url": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604449/Adopcion/gatos/Card_tdvgcy.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "Bennelong Point, Sídney NSW 2000, Australia."
             }
         },
-
         {
             "id": 2,
             "nombre": "Pelusa",
-            "edad": "",
+            "edad": "2 años",
             "raza": "Birmano",
-            "descripcion": "",
-            "dirreccion": "",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png",
+            "descripcion": "Pelusa es un gato birmano tranquilo y afectuoso. Busca un hogar tranquilo donde pueda relajarse y recibir cariño.",
+            "dirreccion": "101 Calle Gato, Ciudad Gatuna",
+            "personalidad": "Tranquilo y afectuoso",
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "Distrito de Machupicchu, Provincia de Urubamba, Región Cusco, Perú."
             }
-        }, 
+        },
         {
             "id": 3,
             "nombre": "Kity",
-            "edad": "",
+            "edad": "1.5 años",
             "raza": "Bombay",
-            "descripcion": "",
-            "dirreccion": "",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604448/Adopcion/gatos/Card_3_l49ixu.png",
+            "descripcion": "Kity es un gato Bombay elegante y misterioso. Busca un hogar donde pueda explorar y ser el rey de su propio castillo.",
+            "dirreccion": "202 Calle Bombay, Ciudad Felina",
+            "personalidad": "Elegante y misterioso",
+            "url": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604448/Adopcion/gatos/Card_3_l49ixu.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "Yellowstone National Park, WY 82190, Estados Unidos."
             }
-        }, 
+        },
         {
             "id": 4,
             "nombre": "Bombón",
-            "edad": "",
+            "edad": "1 año",
             "raza": "Gato americano",
-            "descripcion": "",
-            "dirreccion": "",
-            "personalidad": "",
-            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604447/Adopcion/gatos/Card_2_tspyol.png",
+            "descripcion": "Bombón es un gato americano curioso y juguetón. Está buscando un hogar lleno de estímulos y aventuras.",
+            "dirreccion": "303 Calle Gato, Ciudad Gatuna",
+            "personalidad": "Curioso y juguetón",
+            "url": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604447/Adopcion/gatos/Card_2_tspyol.png",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
+            },
+            "extra": {
+                "ubicacion": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malasia."
             }
         }
     ],
-
 
 
     "registro": [
@@ -148,11 +163,6 @@
             "correo_u" :"juan.mendez@gmail.com"
         }
     ]
-
-
 }
-
-
-  
 
   
